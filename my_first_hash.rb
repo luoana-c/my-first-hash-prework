@@ -1,7 +1,7 @@
 def my_hash
   my_hash = {"pet" => "cat", "name" => "Bob"}
 
-  
+  my_hash
 end
 
 
